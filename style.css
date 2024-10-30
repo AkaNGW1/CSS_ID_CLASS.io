@@ -1,0 +1,38 @@
+#header {
+    color: black;
+    font-size: 36px;
+    width: 100%;
+    background-color: coral;
+    height: 80px;
+    align-content: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.section {
+    color: #333;
+    font-size: 18px;
+    margin: 10px 0;
+}
+
+.content {
+    margin: 20px;
+    padding: 15px;
+    font-family: 'Arial', sans-serif;
+}
+
+
+.sidebar {
+    margin: 20px; 
+    padding: 15px;
+    font-family: 'Georgia', serif;
+}
+
+#footer {
+    background-color: #73ac19;
+    padding: 10px;
+    text-align: center;
+    font-family: 'Arial', sans-serif;
+    bottom: 0;
+    width: 100%;
+}
